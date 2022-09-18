@@ -1,11 +1,11 @@
 ### Hi, I'm Nardu 👋
 
-## I'm an Independent Developer & Freelancer!
+## I'm an Independent Developer & Freelancer 👨🏽‍💻
 
 - 🔭 I’m currently working on revamping my portfolio website using Astro 
-- 🌱 I’m currently learning React, Design, GTM/GA4 and more Javascript
-- 💬 Ask me about Shopify and Ecommerce in general
-- 😄 Pronouns: he/him
+- 🌱 I’m learning React, Design, GTM/GA4 and more Javascript
+- 💬 Ask me about Shopify and Ecommerce 📈💲
+- 🤵🏽 Pronouns: he/him
 
 
 
