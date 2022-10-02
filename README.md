@@ -10,7 +10,7 @@
 # I'm an Independent Developer & Freelancer 👨🏽‍💻
 
 - 🔭 Current project - Revamping my portfolio website using Astro 
-- 🌱 Learning &emsp; - React, Design, GTM/GA4 and more Javascript
+- 🌱 Learning &emsp;&emsp; - React, Design, GTM/GA4 and more Javascript
 - 💬 Ask me          - Shopify and Ecommerce 📈💲 (💧 liquid)
 - 🤵🏽 Pronouns        - he/him
 
