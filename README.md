@@ -1,8 +1,11 @@
-### Hi 👋, I'm mostly new here 
+### Hi 👋, This is my space and I love making it my own 
+## My main aim using code is to help e-shop owners get the most from their stores 
 
-> learn something new every day
+## My favourites are CSS > JavaScript > Liquid Templating > HTML > all the rest 
 
-## I'm an Independent Developer & Freelancer 👨🏽‍💻
+> "learn something new every day"
+
+# I'm an Independent Developer & Freelancer 👨🏽‍💻
 
 - 🔭 Current project - Revamping my portfolio website using Astro 
 - 🌱 Learning &emsp; - React, Design, GTM/GA4 and more Javascript
