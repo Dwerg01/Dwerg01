@@ -1,13 +1,13 @@
-### Hi, I'm Nardu 👋
+### Hi 👋
+
+
 
 ## I'm an Independent Developer & Freelancer 👨🏽‍💻
 
-- 🔭 I’m currently working on revamping my portfolio website using Astro 
-- 🌱 I’m learning React, Design, GTM/GA4 and more Javascript
-- 💬 Ask me about Shopify and Ecommerce 📈💲
-- 🤵🏽 Pronouns: he/him
-
-
+- 🔭 Current project - Revamping my portfolio website using Astro 
+- 🌱 Learning        - React, Design, GTM/GA4 and more Javascript
+- 💬 Ask me          - Shopify and Ecommerce 📈💲 (💧 liquid)
+- 🤵🏽 Pronouns        - he/him
 
 🌐 [website][website] **|**
 🕊 [twitter][twitter] **|**
