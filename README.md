@@ -1,9 +1,11 @@
-### Hi 👋, This is my space and I love making it my own 
-## My main aim using code is to help e-shop owners get the most from their stores 
+### Hi 👋, thanks for dropping in. 
+---
 
-## My favourites are CSS > JavaScript > Liquid Templating > HTML > all the rest 
+## Professionally I code to help e-shop owners get the most from their stores 
 
-> "learn something new every day"
+## My favourites are CSS > JavaScript > Liquid Templating > HTML > CMS > all the rest 
+
+> "Be better than you were yesterday"
 
 # I'm an Independent Developer & Freelancer 👨🏽‍💻
 
