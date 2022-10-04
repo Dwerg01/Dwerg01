@@ -1,17 +1,18 @@
 ### Hi 👋, thanks for dropping in. 
 ---
 
-## Professionally I code to help e-shop owners get the most from their stores 
+
 
 ## My favourites are CSS > JavaScript > Liquid Templating > HTML > CMS > all the rest 
 
 > "Be better than you were yesterday"
 
 # I'm an Independent Developer & Freelancer 👨🏽‍💻
+&emsp;&emsp;&emsp; my focus is e-commerce
 
 - 🔭 Current project - Revamping my portfolio website using Astro 
 - 🌱 Learning &emsp;&emsp; - React, Design, GTM/GA4 and more Javascript
-- 💬 Ask me          - Shopify and Ecommerce 📈💲 (💧 liquid)
+- 💬 Ask me          - Shopify and e-commerce 📈💲 (💧 liquid)
 - 🤵🏽 Pronouns        - he/him
 
 🌐 [website][website] **|**
