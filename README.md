@@ -2,7 +2,7 @@
 ---
 
 # I'm an Independent Developer & Freelancer 👨🏽‍💻
-&emsp;&emsp;&emsp; <span style="color:blue;">my focus is e-commerce</span>
+&emsp;&emsp;&emsp; <span style="color:#33d">My focus is e-commerce</span>
 
 ## My favourites are CSS > JavaScript > Liquid Templating > HTML > CMS > all the rest 
 > "Be better than you were yesterday"
