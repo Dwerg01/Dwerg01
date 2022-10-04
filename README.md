@@ -1,14 +1,11 @@
 ### Hi 👋, thanks for dropping in. 
 ---
 
-
+# I'm an Independent Developer & Freelancer 👨🏽‍💻
+&emsp;&emsp;&emsp; <span style="color:blue;">my focus is e-commerce</span>
 
 ## My favourites are CSS > JavaScript > Liquid Templating > HTML > CMS > all the rest 
-
 > "Be better than you were yesterday"
-
-# I'm an Independent Developer & Freelancer 👨🏽‍💻
-&emsp;&emsp;&emsp; my focus is e-commerce
 
 - 🔭 Current project - Revamping my portfolio website using Astro 
 - 🌱 Learning &emsp;&emsp; - React, Design, GTM/GA4 and more Javascript
