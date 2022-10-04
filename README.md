@@ -2,7 +2,7 @@
 ---
 
 # I'm an Independent Developer & Freelancer 👨🏽‍💻
-&emsp;&emsp;&emsp; Focus &emsp;: e-commerce <br>
+&emsp;&emsp;&emsp; Focus &emsp;&nbsp;&nbsp;: e-commerce <br>
 &emsp;&emsp;&emsp; Objective : helping online store owners make the most out of their businesses
 
 
