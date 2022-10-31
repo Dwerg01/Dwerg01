@@ -2,8 +2,10 @@
 ---
 
 # I'm an Independent Developer & Freelancer 👨🏽‍💻
-&emsp;&emsp;&emsp; Focus &emsp;&nbsp;&nbsp;: e-commerce <br>
-&emsp;&emsp;&emsp; Objective : helping online store owners make the most out of their businesses
+
+&emsp;&emsp;&emsp; Objective : Helping online store owners make the most out of their businesses
+&emsp;&emsp;&emsp; Focus &emsp;&nbsp;&nbsp;: The e-commerce tech eco-system <br>
+
 
 
 ## My favourites are CSS > JavaScript > Liquid Templating > HTML > CMS > all the rest 
