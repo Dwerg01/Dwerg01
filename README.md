@@ -3,7 +3,9 @@
 
 # I'm an Independent Developer & Freelancer 👨🏽‍💻
 
-&emsp;&emsp;&emsp; Objective : Helping online store owners make the most out of their businesses
+I help to build and enhance e-commerce stores for business owners with a growth mindset.
+Store owners can focus on running their business, while I focus on building the next features and steps
+
 &emsp;&emsp;&emsp; Focus &emsp;&nbsp;&nbsp;: The e-commerce tech eco-system <br>
 
 
