@@ -18,13 +18,16 @@ Store owners can focus on running their business, while I focus on building the 
 - 💬 Ask me          - Shopify and e-commerce 📈💲 (💧 liquid)
 - 🤵🏽 Pronouns        - he/him
 
-![JavaScript](https://user-images.githubusercontent.com/26951927/216258981-594cdd5c-7d1f-4a17-9e01-292971d37e41.svg)
 
 
 🌐 [website][website] **|**
 🕊 [twitter][twitter] **|**
 👔 [linkedin][linkedin]
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/NarduInfo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nardu-malherbe-6016b615/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/nardu.info/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="https://nardu.info" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlechrome.svg" alt="" height="30" width="40" /></a>
+</p>
 
-[website]: https://nardu.info
-[twitter]: https://twitter.com/NarduInfo
-[linkedin]: https://www.linkedin.com/in/nardu-malherbe-6016b615/
