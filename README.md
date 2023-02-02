@@ -18,6 +18,9 @@ Store owners can focus on running their business, while I focus on building the 
 - 💬 Ask me          - Shopify and e-commerce 📈💲 (💧 liquid)
 - 🤵🏽 Pronouns        - he/him
 
+![JavaScript](https://user-images.githubusercontent.com/26951927/216258981-594cdd5c-7d1f-4a17-9e01-292971d37e41.svg)
+
+
 🌐 [website][website] **|**
 🕊 [twitter][twitter] **|**
 👔 [linkedin][linkedin]
