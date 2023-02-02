@@ -8,7 +8,7 @@ Store owners can focus on running their business, while I focus on building the 
 
 &emsp;&emsp;&emsp; Focus &emsp;&nbsp;&nbsp;: The e-commerce tech eco-system <br>
 
-
+[![Nardu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dwerg01)](https://github.com/Dwerg01/github-readme-stats)
 
 ## My favourites are CSS > JavaScript > Liquid Templating > HTML > CMS > all the rest 
 > "Be better than you were yesterday"
