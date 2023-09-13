@@ -21,6 +21,3 @@ That means I build and enhance Shopify stores for business owners with a growth 
 🌐 [website][website] **|**
 🕊 [twitter][twitter] **|**
 👔 [linkedin][linkedin]
-
-<h3 align="left">Hire me:</h3>
-[Upwork Profile]([url](https://www.upwork.com/freelancers/~01c23fdd04f98a12ed)https://www.upwork.com/freelancers/~01c23fdd04f98a12ed)
