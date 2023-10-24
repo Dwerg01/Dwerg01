@@ -1,9 +1,8 @@
-### Hello and welcome to my page. My name is Nardu. 
+### Hello and welcome, my name is Nardu. 
 ---
-# I'm a Freelance Front End Developer 👨🏽‍💻
+# Freelance Front End Developer 👨🏽‍💻
 
-## My focus is on e-commerce tech and frameworks, and I specialise in Shopify
-
+I work on e-commerce tech and frameworks and specialise in Shopify
 That means I build and enhance Shopify stores for business owners with a growth mindset.
 
 
@@ -18,6 +17,6 @@ That means I build and enhance Shopify stores for business owners with a growth 
 
 
 <h3 align="left">Connect with me:</h3>
-🌐 [website][website] **|**
+
 🕊 [twitter][twitter] **|**
 👔 [linkedin][linkedin]
