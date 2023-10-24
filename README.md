@@ -10,10 +10,10 @@ That means I build and enhance Shopify stores for business owners with a growth 
 
 > "Be better than you were yesterday"
 
-- 🌱 Learning &emsp;&emsp; - React, Figma Design and more Javascript
-- 💬 Ask me          - Shopify and e-commerce 📈💲 (💧 liquid)
-- 🤵🏽 Pronouns        - he/him
-
+- 🌱 Learning &emsp; - &emsp;Figma Design, React and more Javascript
+- 💬 Ask me  &nbsp; &emsp; - &emsp;Shopify and e-commerce 📈💲
+- 🤵🏽 Pronouns &nbsp;&nbsp; - &emsp;he/him
+- 🤵🏽 Tech Stack &nbsp; - &emsp;HTML, CSS, Javascript, Liquid 💧, Git 
 
 
 <h3 align="left">Connect with me:</h3>
