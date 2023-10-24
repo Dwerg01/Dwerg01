@@ -19,6 +19,6 @@ That means I build and enhance Shopify stores for business owners with a growth 
 <h3 align="left">Connect with me:</h3>
 
 
-👔 [linkedin](https://www.linkedin.com/in/nardu-malherbe-6016b615) **|**
-🕊 [twitter](https://twitter.com/NarduInfo) **|**
-📗 [upwork](https://www.upwork.com/freelancers/~01c23fdd04f98a12ed)
+👔 [LinkedIn](https://www.linkedin.com/in/nardu-malherbe-6016b615) **|**
+🕊 [X](https://twitter.com/NarduInfo) **|**
+📗 [Upwork](https://www.upwork.com/freelancers/~01c23fdd04f98a12ed)
